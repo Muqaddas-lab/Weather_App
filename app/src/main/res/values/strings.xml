@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="app_title">Weather App</string>
+    <string name="city">City</string>
+    <string name="temperature">Temperature</string>
+    <string name="condition">Condition</string>
+    <string name="location_icon">Location icon</string>
+    <string name="temperature_icon">Temperature icon</string>
+    <string name="condition_icon">Condition icon</string>
+    <string name="weather_background">Weather background</string>
+    <string name="label_city">City: %1$s</string>
+    <string name="label_temp">Temp: %1$.1f°C</string>
+    <string name="label_condition">Condition: %1$s</string>
+</resources>
